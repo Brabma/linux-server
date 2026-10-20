@@ -1,0 +1,12 @@
+private/
+keys/
+logs/
+data/
+*.sqlite*
+*.db
+*.jsonl
+*.pcap*
+*.key
+*.pem
+.env*
+__pycache__/

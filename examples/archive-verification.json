@@ -1,0 +1,11 @@
+{
+  "day_utc": "2026-10-11",
+  "passed": true,
+  "records": 188521,
+  "expected_batches": 192,
+  "verified_batches": 192,
+  "quick_check": ["ok"],
+  "archive_sha256": "0091b0d5637400e972f97856b11c880787d4bdbc8b78d8e1236aa213b76e15ce",
+  "database_sha256": "32b518a86cea145046a6db2a165ec13a606ecea457ad26c9d4feeefcfc357245",
+  "scope": "Saved archive integrity and batch coverage; not global news completeness"
+}
