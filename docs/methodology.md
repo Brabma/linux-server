@@ -1,6 +1,6 @@
-# Jak vzniká přehled Svět
+# Jak vzniká přehled zpráv
 
-Svět je krátký výběr událostí ze zahraničního zpravodajství. Cílem je všimnout si i dění mimo obvyklý okruh zpráv a vysvětlit ho česky s odkazy na zdroje. Zda tento cíl plní lépe než běžné přehledy, zatím není systematicky ověřené.
+Přehled je krátký výběr událostí ze zahraničního zpravodajství. Cílem je všimnout si i dění mimo obvyklý okruh zpráv a vysvětlit ho česky s odkazy na zdroje. Zda tento cíl plní lépe než běžné přehledy, zatím není systematicky ověřené.
 
 ## Od dat ke zprávě
 

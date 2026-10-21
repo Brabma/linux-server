@@ -1,4 +1,4 @@
-"""Běží na tabletu: pošle stav pruhu „Nové od…“ na veřejný web (mujlinux.cloud), aby bylo vidět, kdy aktualizovat Svět.
+"""Běží na tabletu: pošle stav pruhu „Nové od…“ na veřejný web (mujlinux.cloud), aby bylo vidět, kdy aktualizovat přehled.
 
 Klíč tabletu má na serveru vynucený příkaz nove_prijem.py: smí jen předat tento soubor, nic jiného.
 Bez nove-web.json (vedle skriptu) se nic neposílá. Chyba přenosu se jen vrátí do logu, detektor běží dál.

@@ -1,6 +1,6 @@
 # Veřejný web a vydávání
 
-Veřejný [Svět](https://mujlinux.cloud/) obsluhuje Nginx na linuxovém VPS. Tablet sbírá data, počítač připravuje vydání a na VPS jde jen hotová statická stránka a malý soubor se stavem pruhu „Nové od…“. Pro čtení přehledu nemusí být počítač zapnutý.
+Veřejný [přehled zpráv](https://mujlinux.cloud/) obsluhuje Nginx na linuxovém VPS. Tablet sbírá data, počítač připravuje vydání a na VPS jde jen hotová statická stránka a malý soubor se stavem pruhu „Nové od…“. Pro čtení přehledu nemusí být počítač zapnutý.
 
 ## Vydání stránky
 
