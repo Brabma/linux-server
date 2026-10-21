@@ -1,6 +1,6 @@
 # Linuxový server pro sběr zpráv
 
-Ze starého tabletu s Androidem jsem si udělal domácí server. Běží nepřetržitě a každých 15 minut stahuje nové články ze světových médií. Z nasbíraných zpráv vzniká přehled, který si může kdokoli přečíst na [mujlinux.cloud](https://mujlinux.cloud/).
+Z tabletu s Androidem jsem si udělal domácí server. Běží nepřetržitě a každých 15 minut stahuje nové články ze světových médií. Z nasbíraných zpráv vzniká přehled, který si může kdokoli přečíst na [mujlinux.cloud](https://mujlinux.cloud/).
 
 Proč tablet: je tichý, má malou spotřebu a běží i při vypnutém počítači. Linuxové nástroje na něm zpřístupňuje aplikace Termux.
 
